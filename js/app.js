@@ -12,11 +12,11 @@ startButton.addEventListener('click', () => {
 
 // Array phrases
 const phrases = [
+    'when pigs fly',
+    'when in rome',
     'let them eat cake',
-    'too many cooks spoil the broth',
-    'May the force be with you',
-    'The show must go on',
-    'Nothing will come of nothing'
+    'too many cooks',
+    'The show must go on'
 ];
 
 
